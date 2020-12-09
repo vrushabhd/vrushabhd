@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 #### How to contact me? 📞
 [LinkedIn](https://www.linkedin.com/in/vrushabhdhond) | [twitter](https://twitter.com/vrushabhdhond) | [facebook](https://www.facebook.com/people/Vrushabh-Dhond/100008391370383) | [Quora](https://www.quora.com/profile/Vrushabh-Dhond-1) |
 
-<img align="left" alt="gkanishk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vrushabhd&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />
+<img align="left" alt="Vrushabh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vrushabhd&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />
 
 
